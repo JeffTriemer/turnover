@@ -1,0 +1,4 @@
+name: turnover
+channels:
+  - defaults
+prefix: /opt/conda/envs/turnover
